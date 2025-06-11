@@ -34,7 +34,7 @@ The objective of this project is to showcase dashboard development and storytell
 ## Author
 Triparna Paul
 Aspiring Data Analyst | Power BI Developer  
-[LinkedIn](www.linkedin.com/in/triparna-paul-8ab75b31b)  
+[LinkedIn](https://www.linkedin.com/in/triparna-paul-8ab75b31b/)  
 
 
 
